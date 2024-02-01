@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alok Kumar</h1>
 <h3 align="center">A passionate software developer and CSE Grad from India</h3>
+<img align="right" height="300" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<p align="left" padding="10">
 
 - 🌱 I’m currently learning **Node.js and Javascript**
 
@@ -8,6 +10,9 @@
 - 💬 Ask me about **angular, html, css and git**
 
 - 📫 How to reach me **bizzyalok@gmail.com**
+
+- 🚀 Check out my [resume.](https://drive.google.com/file/d/13WCmeOApJZ-HqzYmhDlFXKTesNBaxsOE/view?usp=drive_link)
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
