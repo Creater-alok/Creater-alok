@@ -3,11 +3,11 @@
 <img align="right" height="210" width="300" objectFit="cover" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <div margin="70px 70px" padding="50px">
 
-- 🌱 I’m currently learning **Node.js and Javascript**
+- 🌱 I’m currently learning **React.js and JavaScript**
 
 - 👨‍💻 All of my projects are available [here.](https://github.com/Creater-alok?tab=repositories)
 
-- 💬 Ask me about **angular, html, css and git**
+- 💬 Ask me about **Angular, Html, CSS ,Git and C++**
 
 - 📫 How to reach me **bizzyalok@gmail.com**
 
